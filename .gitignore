@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.experiments/
+.ipynb_checkpoints/
+# User photos are not approved for public redistribution
+sources/
+cas_reels/*.png
+cas_reels/*.jpg
+# ephemeral generated previews
+exemples/
