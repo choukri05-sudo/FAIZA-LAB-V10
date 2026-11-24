@@ -1,0 +1,47 @@
+[
+  {
+    "source": "1000025722.jpg",
+    "nom": "coquelicot_ancien",
+    "largeur": 506,
+    "hauteur": 550,
+    "laplacien": 4.167304515838623,
+    "formes_vectorielles": 145,
+    "fond_manuel": true
+  },
+  {
+    "source": "1000025726.jpg",
+    "nom": "bracelet_vert",
+    "largeur": 172,
+    "hauteur": 550,
+    "laplacien": 221.78952026367188,
+    "formes_vectorielles": 297,
+    "fond_manuel": true
+  },
+  {
+    "source": "1000025721.jpg",
+    "nom": "geometrie_franche",
+    "largeur": 550,
+    "hauteur": 426,
+    "laplacien": 816.6997680664062,
+    "formes_vectorielles": 1718,
+    "fond_manuel": true
+  },
+  {
+    "source": "1000025716.jpg",
+    "nom": "bracelet_geometrique",
+    "largeur": 193,
+    "hauteur": 550,
+    "laplacien": 1026.024658203125,
+    "formes_vectorielles": 715,
+    "fond_manuel": true
+  },
+  {
+    "source": "1000025729.jpg",
+    "nom": "pastel_geom",
+    "largeur": 219,
+    "hauteur": 550,
+    "laplacien": 121.51201629638672,
+    "formes_vectorielles": 587,
+    "fond_manuel": true
+  }
+]
