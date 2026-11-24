@@ -1,0 +1,27 @@
+{
+  "type": "enveloppe expérimentale; pas de seuils production",
+  "version": "V10",
+  "date": "2026-11-23",
+  "reference": {
+    "nombre_motifs_controles": 3,
+    "pixels_par_pas_initial": 10,
+    "palette_exacte_connue": true
+  },
+  "enveloppes_sur_essais_controles": {
+    "flou_max_exact_reconnaissance_directe_sigma_px": 1.8,
+    "flou_max_ratio_pas": 0.18,
+    "reduction_premier_test_exact_pxls_par_pas": 3,
+    "reduction_premier_test_echec_pxls_par_pas": 2,
+    "JPEG": null,
+    "laplacien": null,
+    "lumiere": null,
+    "bruit": null
+  },
+  "restriction": "Référence exacte connue; rendus synthétiques alignés. Test sur photos naturelles et validation esthétique indispensable. Ne pas utiliser comme rejet automatique.",
+  "vectorisation": {
+    "opencv_contours": "testé; pertes fortes à certains niveaux de flou",
+    "svg_structure_grille": "aller-retour sans erreur additionnelle pour les échantillons testés; sortie technique uniquement",
+    "vtracer": "non exécuté",
+    "imagetracerjs": "non exécuté"
+  }
+}
